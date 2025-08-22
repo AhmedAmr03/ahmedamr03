@@ -1,35 +1,27 @@
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #1e3a8a, #2563eb, #3b82f6); -webkit-background-clip: text; color: transparent; font-weight: bold; font-size: 42px;">
-    Hi there 👋, I'm Ahmed Amr
-  </span>
-  <br><br>
-  <span style="font-size: 28px; font-weight: bold; color: #2563eb;">
-    🚀 Front-End Developer
-  </span>
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2563EB&center=true&vCenter=true&lines=HTML+%7C+CSS+%7C+JavaScript;React+%7C+Tailwind+CSS;Building+Modern+Websites+💻" />
+<h1 align="center" style="color:#2563eb; font-weight:bold; font-size:42px;">
+  Hi there 👋, I'm Ahmed Amr
 </h1>
 
----
+<h2 align="center" style="font-weight:bold; color:#2563eb;">
+  🚀 Front-End Developer
+</h2>
 
-## 🚀 About Me
-- 🎯 Professional **Front-End Developer** crafting modern, responsive, and interactive web apps.  
-- 🌱 Focused on **JavaScript, React, and advanced UI/UX**.  
-- ⚡ Passionate about animations, performance, and sleek design.  
-
----
-
-## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2563EB&center=true&vCenter=true&lines=HTML+%7C+CSS+%7C+JavaScript;Git+%7C+GitHub+%7C+VS+Code;Building+Modern+Websites+💻" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 About Me
+- 🎯 Passionate **Front-End Developer** building clean, responsive, and interactive websites.  
+- 🌱 Constantly learning and improving my coding skills.  
+- ⚡ Obsessed with user-friendly design and performance.  
+
+---
+
+## 🛠️ Skills
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight" height="160"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
 ---
