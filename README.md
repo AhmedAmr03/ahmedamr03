@@ -1,17 +1,21 @@
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5, #4ade80); -webkit-background-clip: text; color: transparent; font-weight: bold; font-size: 40px;">
-    Hi there 👋, I'm [Your Name]
+  <span style="background: linear-gradient(90deg, #1e3a8a, #2563eb, #3b82f6); -webkit-background-clip: text; color: transparent; font-weight: bold; font-size: 42px;">
+    Hi there 👋, I'm Ahmed Amr
+  </span>
+  <br><br>
+  <span style="font-size: 28px; font-weight: bold; color: #2563eb;">
+    🚀 Front-End Developer
   </span>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C4FF&center=true&vCenter=true&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;React+%7C+Tailwind+CSS;Building+Modern+Websites+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2563EB&center=true&vCenter=true&lines=HTML+%7C+CSS+%7C+JavaScript;React+%7C+Tailwind+CSS;Building+Modern+Websites+💻" />
 </h1>
 
 ---
 
 ## 🚀 About Me
-- 🎯 Creative **Front-End Developer** building interactive and modern web experiences.  
-- 🌱 Constantly improving my skills in JavaScript, React, and UI/UX design.  
-- ⚡ Love clean code, animations, and user-friendly interfaces.  
+- 🎯 Professional **Front-End Developer** crafting modern, responsive, and interactive web apps.  
+- 🌱 Focused on **JavaScript, React, and advanced UI/UX**.  
+- ⚡ Passionate about animations, performance, and sleek design.  
 
 ---
 
@@ -24,22 +28,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=radical" height="160"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&margin-w=10&margin-h=10&column=7" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight" height="160"/>
 </p>
 
 ---
