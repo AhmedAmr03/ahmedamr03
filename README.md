@@ -1,6 +1,7 @@
 <!-- HEADER -->
+Hi there 👋,
 <h1 align="center">
-  Hi there 👋, I'm [Your Name]  
+   I'm <span style="color:blue">Ahmed Amr <span>
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C4FF&center=true&vCenter=true&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Modern+Websites+💻" />
 </h1>
