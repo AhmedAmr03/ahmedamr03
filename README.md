@@ -32,8 +32,3 @@
 - 💡 [Project 3](#) — Short description here.
 -->
 ---
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:ahmed.amr03@outlook.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-  <a href="https://www.linkedin.com/in/ahmedamr03"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
