@@ -25,12 +25,12 @@
 </p>
 
 ---
-/*
+<!--
 ## 📂 Featured Projects
 - 🚀 [Project 1](#) — Short description here.  
 - 🎨 [Project 2](#) — Short description here.  
-- 💡 [Project 3](#) — Short description here.  
-*/
+- 💡 [Project 3](#) — Short description here.
+-->
 ---
 
 ## 🌐 Connect With Me
