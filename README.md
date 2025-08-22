@@ -1,13 +1,13 @@
-<h1 align="center" style="color:#2563eb; font-weight:bold; font-size:42px;">
+<h1 align="center">
   Hi there 👋, I'm Ahmed Amr
 </h1>
 
-<h2 align="center" style="font-weight:bold; color:#2563eb;">
+<h2 align="center">
   🚀 Front-End Developer
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2563EB&center=true&vCenter=true&lines=HTML+%7C+CSS+%7C+JavaScript;Git+%7C+GitHub+%7C+VS+Code;Building+Modern+Websites+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=orange&center=true&vCenter=true&lines=HTML+%7C+CSS+%7C+JavaScript;Git+%7C+GitHub+%7C+VS+Code;Building+Modern+Websites+💻" />
 </p>
 
 ---
@@ -35,7 +35,5 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-  <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://github.com/USERNAME"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
-</p>
+  <a href="mailto:ahmed.amr03@outlook.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+  <a href="https://www.linkedin.com/in/ahmedamr03"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
